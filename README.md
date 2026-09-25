@@ -124,58 +124,7 @@ engineer:
 
 ---
 
-### 🚀 Flagship Engineering Projects
 
-<table>
-  <thead>
-    <tr>
-      <th width="35%">Project & Focus</th>
-      <th width="45%">Architecture & Technical Highlights</th>
-      <th width="20%">Status & Links</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>🤖 OmniRAG: Enterprise Document Intelligence</b><br/>
-        <i>Generative AI & Semantic Retrieval</i>
-      </td>
-      <td>
-        • Built an asynchronous RAG pipeline ingesting unstructured PDFs/Docs.<br/>
-        • Hybrid semantic retrieval combining ChromaDB dense vectors and BM25 sparse index.<br/>
-        • Streaming LLM responses via FastAPI WebSockets to a Next.js front-end.
-      </td>
-      <td>
-        <code>🟢 Production</code><br/>
-        <a href="https://github.com/suraz111/omnirag">Source Code</a> • <a href="https://demo-link.com">Live Demo</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>📊 NeuroPredict: Real-Time Market Analytics</b><br/>
-        <i>Predictive Modeling & Full-Stack Visualization</i>
-      </td>
-      <td>
-        • Trained LSTM & XGBoost time-series models for multi-horizon price forecasting.<br/>
-        • Automated ETL pipeline pulling live financial tick data with Redis caching.<br/>
-        • Interactive charting dashboard with Tailwind CSS & Recharts.
-      </td>
-      <td>
-        <code>🟢 Active</code><br/>
-        <a href="https://github.com/suraz111/neuropredict">Source Code</a> • <a href="https://demo-link.com">Live Demo</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>⚡ PulseAPI: Scalable AI Agent Orchestrator</b><br/>
-        <i>Microservices & Distributed Systems</i>
-      </td>
-      <td>
-        • Event-driven multi-agent orchestration backend using Node.js, RabbitMQ & Redis.<br/>
-        • Role-based authentication and rate-limiting middleware with PostgreSQL.<br/>
-        • Containerized with Docker multi-stage builds and automated CI/CD deployment.
-      </td>
-      <td>
         <code>🟡 In Development</code><br/>
         <a href="https://github.com/suraz111/pulseapi">Source Code</a> • <a href="https://demo-link.com">Documentation</a>
       </td>
