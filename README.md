@@ -122,17 +122,6 @@ engineer:
 
 </div>
 
----
-
-
-        <code>🟡 In Development</code><br/>
-        <a href="https://github.com/suraz111/pulseapi">Source Code</a> • <a href="https://demo-link.com">Documentation</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
 
 ### 📈 GitHub Analytics & Activity Hub
 
